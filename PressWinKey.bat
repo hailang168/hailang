@@ -1,4 +1,4 @@
-@ECHO off
+@ECHO OFF
 SETLOCAL ENABLEDELAYEDEXPANSION
 PROMPT $
 cls
@@ -25,4 +25,4 @@ ECHO\
 ECHO %DATE% %TIME% èàóùèIóπ
 ECHO\
 
-
+pause
